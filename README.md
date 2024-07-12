@@ -1,6 +1,6 @@
 # 作成したアプリまとめ
 
-2023 年 12 月 ～ 2024 年 5 月までに作成したアプリのまとめです。
+2023 年 12 月 ～ 2024 年 7 月までに作成したアプリのまとめです。
 
 | <a href="https://astoryer.com/ja" target="_blank">AStoryer - あすとりや -</a> | <a href="https://github.com/topi0247/Project-AStoryer" target="_blank" >リポジトリ</a> |
 | :-- | :-- |
