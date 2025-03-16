@@ -7,7 +7,7 @@
 | :--: | :--: |
 | <img src="./images/7.jpg" width="500px" /> | <img src="./images/3.jpg" width="500px" /> |
 | 起承転結でリレー小説が投稿できるサービス | 手紙を通してリレー小説が投稿できるサービス |
-| 開発期間：1週間 / <a href="https://github.com/topi0247/KotonohaTsuduri" target="_blank">リポジトリ</a> / <a href="https://qiita.com/topi_log/items/3d7dafa5240b0a4dc66e" target="_blank">Qiita</a> | 開発期間：2週間 / <a href="https://github.com/topi0247/KotonohaTsuduri" target="_blank">リポジトリ</a> / <a href="https://qiita.com/topi_log/items/3d7dafa5240b0a4dc66e" target="_blank">Qiita</a> |
+| 開発期間：1週間 / <a href="https://github.com/topi0247/KotonohaTsuduri" target="_blank">リポジトリ</a> / <a href="https://qiita.com/topi_log/items/3d7dafa5240b0a4dc66e" target="_blank">Qiita</a> | 開発期間：2週間 / <a href="https://github.com/topi0247/KotonohaTsumugi" target="_blank">リポジトリ</a> / <a href="https://qiita.com/topi_log/items/3d7dafa5240b0a4dc66e" target="_blank">Qiita</a> |
 | <img src="https://img.shields.io/badge/-Docker-fff.svg?logo=docker&style=flat"> <img src="https://img.shields.io/badge/-Next.js14-000000.svg?logo=nextdotjs&style=flat"> <img src="https://img.shields.io/badge/-Rails7.1-D30001.svg?logo=rubyonrails&style=flat"> | <img src="https://img.shields.io/badge/-Docker-fff.svg?logo=docker&style=flat"> <img src="https://img.shields.io/badge/-Next.js14-000000.svg?logo=nextdotjs&style=flat"> <img src="https://img.shields.io/badge/-Rails7.1-D30001.svg?logo=rubyonrails&style=flat"> |
 
 | <a href="https://leaf-record.vercel.app" target="_blank">Leaf Record ～ 大草原不可避 ～</a> | <a href="https://talk-deck.vercel.app">TALK DECK</a> |
